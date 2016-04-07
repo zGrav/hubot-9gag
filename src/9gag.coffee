@@ -10,7 +10,7 @@
 #   None
 #
 # Commands:
-#   hubot 9gag me
+#   hubot 9gag me - Obtains random 9gag post
 #
 # Author:
 #   luijose / EnriqueVidal
